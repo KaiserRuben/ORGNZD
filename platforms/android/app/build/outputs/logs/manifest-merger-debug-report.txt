@@ -9,19 +9,19 @@ INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\mai
 INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
 INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
 	package
-		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:102-129
+		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:98-125
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:70-97
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 	android:hardwareAccelerated
 		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:130-188
+		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:126-184
 	android:versionCode
-		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		ADDED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml:2:46-69
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ruben\Desktop\ORGNZD\ORGNZD\platforms\android\app\src\main\AndroidManifest.xml
 supports-screens

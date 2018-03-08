@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ORGNZD.ORGNZD" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ORGNZD.ORGNZD" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <feature name="Whitelist">
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
     <name>ORGNZD</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        This is the App u gonna use all day to organise urself!
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
+    <author email="Ruben.Kaiser@t-online.de" href="http://Hierkommtnewebsi.te">
         Apache Cordova Team
     </author>
-    <content src="http://google.de" />
+    <content src="http://169.254.140.68/ORGNZD-site" />
     <access origin="*" />
     <allow-navigation href="http://*/*" />
     <allow-navigation href="https://*/*" />
