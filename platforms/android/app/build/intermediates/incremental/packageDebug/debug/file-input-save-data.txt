@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 08 17:17:06 CET 2018
+#Thu Mar 08 19:25:40 CET 2018
 25.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\mipmap-ldpi-v4\\icon.png
 25.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 22.set=ANDROID_RESOURCE
