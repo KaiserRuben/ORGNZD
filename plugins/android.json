@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.ORGNZD.ORGNZD"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.ORGNZD.ORGNZD"
     }
   },
   "dependent_plugins": {}
