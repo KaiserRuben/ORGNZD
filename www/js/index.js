@@ -10,7 +10,7 @@ var app = {
         app.receivedEvent('deviceready');
 
         // Here, we redirect to the web site.
-        var targetUrl = "http://192.168.43.39/ORGNZD-site";
+        var targetUrl = "http://192.168.0.157/ORGNZD-site";
         var bkpLink = document.getElementById("bkpLink");
         bkpLink.setAttribute("href", targetUrl);
         bkpLink.text = targetUrl;
