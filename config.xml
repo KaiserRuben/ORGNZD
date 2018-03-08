@@ -7,7 +7,7 @@
     <author email="Ruben.Kaiser@t-online.de" href="http://Hierkommtnewebsi.te">
         Apache Cordova Team
     </author>
-    <content src="http://169.254.140.68/ORGNZD-site" />
+    <content src="http://192.168.0.157/ORGNZD-site" />
     <access origin="*" />
     <allow-navigation href="http://*/*" />
     <allow-navigation href="https://*/*" />
