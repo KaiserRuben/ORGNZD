@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ORGNZD.ORGNZD" version="0.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ORGNZD.ORGNZD" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <feature name="Whitelist">
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
@@ -8,12 +8,12 @@
         <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
         <param name="onload" value="true" />
     </feature>
-    <name>ORGNZD</name>
+    <name>ORGNZD.</name>
     <description>
         This is the App u gonna use all day to organise urself!
     </description>
     <author email="Ruben.Kaiser@t-online.de" href="https://orgnzd.lennartvonwerder.de/">
-        Apache Cordova Team
+        ORGNZD.-Team
     </author>
     <content src="https://orgnzd.lennartvonwerder.de/" />
     <access origin="*" />
@@ -25,6 +25,12 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-intent href="market:*" />
+    <icon density="ldpi" id="ldpi" src="res/icon/android/ldpi.png" />
+    <icon density="mdpi" id="mdpi" src="res/icon/android/mdpi.png" />
+    <icon density="hdpi" id="hdpi" src="res/icon/android/hdpi.png" />
+    <icon density="xhdpi" id="xhdpi" src="res/icon/android/xhdpi.png" />
+    <icon density="xxhdpi" id="xxhdpi" src="res/icon/android/xxhdpi.png" />
+    <icon density="xxxhdpi" id="xxxhdpi" src="res/icon/android/xxxhdpi.png" />
     <preference name="loglevel" value="DEBUG" />
-    <preference name="StatusBarBackgroundColor" value="#ff1493" />
+    <preference name="StatusBarBackgroundColor" value="#fcb8b8" />
 </widget>
