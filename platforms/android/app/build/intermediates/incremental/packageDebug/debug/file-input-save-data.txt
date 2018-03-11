@@ -1,12 +1,12 @@
 #Internal package file, do not edit.
-#Sat Mar 10 16:54:09 CET 2018
+#Sat Mar 10 21:05:58 CET 2018
 25.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-land-hdpi-v4\\screen.png
 25.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 22.set=ANDROID_RESOURCE
 8.set=ASSET
 11.set=ASSET
 27.set=ANDROID_RESOURCE
-30.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
+30.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-ldpi-v4\\screen.png
 14.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\img\\logo.png
 30.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 14.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -25,7 +25,7 @@ count=35
 7.set=DEX
 20.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 10.set=ASSET
-31.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-ldpi-v4\\screen.png
+31.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
 15.file=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-xxhdpi-v4\\screen.png
 31.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 15.base=C\:\\Users\\Ruben\\Desktop\\ORGNZD\\ORGNZD\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
